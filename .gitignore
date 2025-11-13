@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+.vercel/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+vite-error.log*
+
+# Mac system files
+.DS_Store
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# Cache
+.cache/
+*.cache
+.tmp/
+temp/
+
+# Vite cache
+.vite/
+vite.config.ts.timestamp*
+
+# Logs
+logs/
+*.log
+
+# Generated lockfiles for safety (optional)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Misc
+*.local
+*.pid
+*.seed
+*.swp
