@@ -18,7 +18,7 @@ A full‑stack AI-powered resume builder that allows users to create, enhance, p
 
 ## 🌐 Live Demo Links
 
-- **Frontend:** [https://ai-resume-builder-your-vercel-url.vercel.app  ](https://vercel.com/crystal-jains-projects/ai-resume-builder)
+- **Frontend:** https://ai-resume-builder-rho-gold.vercel.app/
 - **Backend:** https://ai-resume-builder-backend-wq1m.onrender.com/
 
 
