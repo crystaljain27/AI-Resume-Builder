@@ -16,6 +16,12 @@ A full‑stack AI-powered resume builder that allows users to create, enhance, p
 - Publish resume publicly with a shareable link
 - Download as PDF
 
+## 🌐 Live Demo Links
+
+- **Frontend:** [https://ai-resume-builder-your-vercel-url.vercel.app  ](https://vercel.com/crystal-jains-projects/ai-resume-builder)
+- **Backend:** https://ai-resume-builder-backend-wq1m.onrender.com/
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -78,16 +84,6 @@ npm install
 npm start
 ```
 
-## 🌐 Live Demo Links
-
-- **Frontend:** https://ai-resume-builder-your-vercel-url.vercel.app  
-- **Backend:** https://ai-resume-builder-backend.onrender.com
-
-## 📸 Screenshots
-(Add your own screenshots here)
-
-## 🙌 Credits
-This project is inspired by GreatStack's YouTube tutorial.
 
 ## 📄 License
 MIT License
